@@ -1,0 +1,14 @@
+{
+  "eslint.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.workingDirectories": [
+    { "pattern": "./packages/*/" }
+  ],
+  "cSpell.words": [
+    "rimraf",
+    "svgr",
+    "tsup"
+  ]
+}
